@@ -2,6 +2,7 @@
 
 
 * {
+
 margin: 0;
 padding: 0;
 border: 0;
@@ -22,7 +23,7 @@ text-decoration: none;
 
 --transition: all 400ms ease
 
---container-width-lg: 75%
+--container-width-lg: 0
 --container-width-md: 86%
 --container-width-sm: 90%
 }
@@ -136,3 +137,5 @@ img {
         margin-top: 2rem;
     }
 }
+
+

@@ -21,6 +21,7 @@ header {
 /*============================Social Networks==============================*/
 
 .header__socials {
+    border: red blue yellow;
     display: flex;
     flex-direction: column;
     align-items: center;
