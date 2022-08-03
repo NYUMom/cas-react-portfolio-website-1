@@ -21,7 +21,6 @@ header {
 /*============================Social Networks==============================*/
 
 .header__socials {
-    border: red blue yellow;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -32,7 +31,7 @@ header {
 }
 
 .header__socials::after {
-    content : " ";
+    content : "";
     width: 1px;
     height: 2rem;
     background: var(--color-primary);
@@ -66,7 +65,7 @@ header {
 /*=================MEDIA QUERIES (MEDIUM DEVICES)================*/
 
 @media screen and (max-width: 1024px) {
-header {
+    header {
     height: 68vh;
     }
 }
