@@ -31,15 +31,18 @@ const About = () => {
             <article className="about__card">
               <FiUsers className="about__icon"/>
               <h5>Clients</h5>
-              <small>7+ CLients Worldwide</small>
+              <small>7+ Clients Worldwide</small>
             </article>
 
             <article className="about__card">
-              <FaAward className="about__icon"/>
+              <VscFolderOpened className="about__icon"/>
               <h5>Projects</h5>
-              <small>+ Built and Deployed</small>
+              <small>5 Projects - Built and Deployed</small>
             </article>
           </div>
+
+          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa voluptatem sint, culpa quas ex dolore praesentium, blanditiis cupiditate labore enim officia cumque maxime voluptate debitis inventore! Iure, vel! Voluptas, accusamus.</p>
+          <a href="#contact" className='btn btn-primary'>Let's Chat</a>
         </div>
       </div>
     </section>
