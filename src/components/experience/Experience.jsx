@@ -48,8 +48,8 @@ const Experience = () => {
         </div>
         
         <div className='experience__backend'>
-        <h3>BackEnd Development</h3>
-            <div className='experience __content'>
+            <h3>BackEnd Development</h3>
+            <div className='experience__content'>
               <article className='experience__details'>
                 <BsPatchCheckFill />
                 <h4>Node JS</h4>
@@ -75,9 +75,8 @@ const Experience = () => {
                 <h4>Postman</h4>
                 <small className='text-light'>Intermediate</small>
               </article>
-              
             </div>
-        </div>
+          </div>
       </div>
     </section>
   )
