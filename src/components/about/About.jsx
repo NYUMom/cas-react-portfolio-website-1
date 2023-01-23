@@ -41,7 +41,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa voluptatem sint, culpa quas ex dolore praesentium, blanditiis cupiditate labore enim officia cumque maxime voluptate debitis inventore! Iure, vel! Voluptas, accusamus.</p>
+          <p>You can update this with your LinkedIn summary. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa voluptatem sint, culpa quas ex dolore praesentium, blanditiis cupiditate labore enim officia cumque maxime voluptate debitis inventore! Iure, vel! Voluptas, accusamus.</p>
           <a href="#contact" className='btn btn-primary'>Let's Chat</a>
         </div>
       </div>
